@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #efefef;
+}
+.wrapper {
+    margin: 3px auto;
+    padding: 50px;
+    width: 410px;
+    border: 2px solid #e1e1e1;
+    background-color: #fff;
+}
+.student_name {
+    margin-top: 5px;
+    text-align: center;
+}
+.photo_wrapper {
+    margin-top: 20px;
+    text-align: center;
+}
+.student_photo {
+    height: 140px;
+}
+.student_prof {
+    margin-left: 10px;
+    font-size: 18px;
+}
+.divider {
+    margin-top: 15px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #000;
+}
+.student_reasons {
+    margin-left: 10px;
+    font-size: 18px;
+}
+.reasons_list {
+    margin-top: 35px;
+    margin-left: 25px;
+    font-size: 18px;
+}
+.contacts_phone {
+    margin-left: 10px;
+    font-size: 18px;
+}
+.contacts_FB {
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.feedback {
+    margin-left: 10px;
+    font-size: 18px;
+    text-align: justify;
+}
+.copyright {
+    margin-top: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: darkred;
+}
